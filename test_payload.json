@@ -1,0 +1,24 @@
+{
+  "video_url": "https://example.com/your-video.mp4",
+  "title": "考公大字报视频",
+  "duration": 7,
+  "ratio": "9:16",
+  "background_blur": true,
+  "display_mode": "all",
+  "font": {
+    "size": 86,
+    "stroke_color": "black",
+    "stroke_width": 7,
+    "position": "center"
+  },
+  "lines": [
+    {"text": "我以为考公", "color": "yellow"},
+    {"text": "靠自己就行", "color": "white"},
+    {"text": "直到在家备考", "color": "yellow"},
+    {"text": "天天拖延", "color": "red"},
+    {"text": "后来来了", "color": "white"},
+    {"text": "无锡封闭集训营", "color": "yellow"},
+    {"text": "手机收走 任务排好", "color": "red"},
+    {"text": "反而安心了", "color": "white"}
+  ]
+}
